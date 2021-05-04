@@ -22,7 +22,6 @@ const (
 	QueryParam     = "query"
 	SortParam      = "sort"
 )
-
 const (
 	AllKinds         = "_all"
 	AllNamespaces    = "_all"
